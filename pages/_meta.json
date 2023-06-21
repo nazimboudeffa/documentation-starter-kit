@@ -1,0 +1,15 @@
+{
+  "index": "Introduction",
+  "e-commerce": "eCommerce",
+  "medusa": "Medusa",
+  "about": {
+    "title": "A propos",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://twitter.com/nazimboudeffa",
+    "newWindow": true
+  }
+}
